@@ -17,8 +17,7 @@ This mod adds new behavior, features, or enhancements to the game by interacting
 ## Requirements
 
 - **Windows** (required for memory / hook libraries)
-- Python 3.8+ (this was only tested on python 3.14 so it may not work on older versions) 
-- Ball-x-Pit installed and running
+- Python 3.8+ (this was only tested on python 3.14 so it may not work on older versions)
 
 
 ### Python Dependencies
