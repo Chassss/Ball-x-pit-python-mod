@@ -39,6 +39,7 @@ colorama
 
 
 2. **Install dependencies**
+
     pip install -r requirements.txt
 
 3. **Move files to the game directory**
@@ -47,5 +48,6 @@ colorama
 
 
 4. **Load the mod**
+
     In order to actually be able to use the mod you need any python mod loader. If your on python 3.11 or earlier you can use the library called "pymem": https://github.com/srounet/Pymem and then using the "inject_python_interpreter" and "inject_python_shellcode" methods.
     Python 3.12+ injection is currently broken due to interpreter changes.
